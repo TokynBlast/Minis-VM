@@ -1,6 +1,0 @@
-#pragma once
-struct Ternary {
-  bool ToCheck,
-  list IfTrue,
-  list IfFalse
-};

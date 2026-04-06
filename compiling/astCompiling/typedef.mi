@@ -1,4 +1,0 @@
-struct TypeDef {
-  void* EqualTo,
-  str   Name
-};

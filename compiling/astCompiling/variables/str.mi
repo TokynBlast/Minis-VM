@@ -1,5 +1,0 @@
-#pragma once
-struct String {
-  int Size,
-  list[][char] Contents
-};
